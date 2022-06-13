@@ -19,6 +19,6 @@
 
 ### 🔥 My activity : 🔥
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bricecorreia&theme=vue-dark&show_icons=true&title_color=51905b&text_color=7ec98d&bg_color=0d1117&hide_border=true&locale=en&layout=compact" alt="bricecorrie" /></p>
+![](https://github-readme-stats.vercel.app/api?username=bricecorreia&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bricecorreia&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com?user=bricecorreia&theme=vue-dark&hide_border=true)
