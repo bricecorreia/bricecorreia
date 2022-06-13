@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bricecorreia&show_icons=true&locale=en&layout=compact" alt="bricecorreia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bricecorreia&show_icons=true&locale=en" alt="bricecorreia" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bricecorreia&show_icons=true&title_color=51905b&text_color=7ec98d&bg_color=0d1117&hide_border=true&locale=en&layout=compact" alt="bricecorrie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bricecorreia&" alt="bricecorreia" /></p>
