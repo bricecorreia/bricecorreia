@@ -18,7 +18,5 @@
 <br />
 
 ### 🔥 My activity : 🔥
-  
-![](https://github-readme-stats.vercel.app/api?username=bricecorreia&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=bricecorreia&theme=vue-dark&hide_border=true)
